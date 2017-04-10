@@ -41,5 +41,4 @@ Thanks：
 谢谢gank.io提供API，感谢默默为开源不遗余力做出努力的小伙伴，你知道GankGirl的完成（即使功能很简单..），是站在巨人的肩膀上。欢迎star，fork。
 
 Screenshot：
-------------
-![](https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif) ... ...  ![](https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/33.png)
+
